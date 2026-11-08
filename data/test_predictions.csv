@@ -1,0 +1,14 @@
+actual,predicted,source_id
+legitimate,legitimate,L07
+legitimate,legitimate,L07
+legitimate,legitimate,L03
+legitimate,legitimate,L05
+legitimate,legitimate,L04
+spam,spam,S07
+spam,spam,S06
+legitimate,legitimate,L03
+spam,spam,S04
+legitimate,legitimate,L08
+spam,spam,S05
+spam,spam,S04
+spam,spam,S06

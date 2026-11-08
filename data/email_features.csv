@@ -1,0 +1,52 @@
+source_id,variant,email_text,label,word_count,exclamations,money_words,all_caps,link_count,urgency_words
+S01,0,CONGRATULATIONS! You are a winner. Claim your $5000 cash prize now at https://prize.example/claim,spam,16,1,3,1,1,1
+S01,1,CONGRATULATIONS! You are a winner. Claim your $5000 cash prize now at https://prize.example/claim Please see the details below.,spam,21,1,3,1,1,1
+S01,2,CONGRATULATIONS! You are a winner. Claim your $5000 cash prize now at https://prize.example/claim Thank you for taking a look.,spam,22,1,3,1,1,1
+S02,0,URGENT: Verify your payment details immediately to receive your bonus. Respond now at www.account.example,spam,16,0,2,1,1,4
+S02,1,URGENT: Verify your payment details immediately to receive your bonus. Respond now at www.account.example Please see the details below.,spam,21,0,2,1,1,4
+S02,2,URGENT: Verify your payment details immediately to receive your bonus. Respond now at www.account.example Thank you for taking a look.,spam,22,0,2,1,1,4
+S03,0,Earn guaranteed income from home. This limited offer pays cash today; act now!,spam,13,1,2,0,0,4
+S03,1,Earn guaranteed income from home. This limited offer pays cash today; act now! Please see the details below.,spam,18,1,2,0,0,4
+S03,2,Earn guaranteed income from home. This limited offer pays cash today; act now! Thank you for taking a look.,spam,19,1,2,0,0,4
+S04,0,You have been selected for a free gift and vacation prize. Claim today before this offer expires!,spam,17,1,1,0,0,2
+S04,1,You have been selected for a free gift and vacation prize. Claim today before this offer expires! Please see the details below.,spam,22,1,1,0,0,2
+S04,2,You have been selected for a free gift and vacation prize. Claim today before this offer expires! Thank you for taking a look.,spam,23,1,1,0,0,2
+S05,0,Double your money with our investment bonus. Limited time only! Visit https://invest.example,spam,14,1,2,0,1,1
+S05,1,Double your money with our investment bonus. Limited time only! Visit https://invest.example Please see the details below.,spam,19,1,2,0,1,1
+S05,2,Double your money with our investment bonus. Limited time only! Visit https://invest.example Thank you for taking a look.,spam,20,1,2,0,1,1
+S06,0,Your payment is on hold. Respond immediately to claim your credit bonus at www.billing.example,spam,16,0,3,0,1,2
+S06,1,Your payment is on hold. Respond immediately to claim your credit bonus at www.billing.example Please see the details below.,spam,21,0,3,0,1,2
+S06,2,Your payment is on hold. Respond immediately to claim your credit bonus at www.billing.example Thank you for taking a look.,spam,22,0,3,0,1,2
+S07,0,WINNER! Claim your cash reward now. This prize expires today!,spam,10,2,2,1,0,3
+S07,1,WINNER! Claim your cash reward now. This prize expires today! Please see the details below.,spam,15,2,2,1,0,3
+S07,2,WINNER! Claim your cash reward now. This prize expires today! Thank you for taking a look.,spam,16,2,2,1,0,3
+S08,0,Make extra income and get a $200 bonus. Act now to claim this limited offer!,spam,15,1,2,0,0,3
+S08,1,Make extra income and get a $200 bonus. Act now to claim this limited offer! Please see the details below.,spam,20,1,2,0,0,3
+S08,2,Make extra income and get a $200 bonus. Act now to claim this limited offer! Thank you for taking a look.,spam,21,1,2,0,0,3
+L01,0,"Hi Morgan, the project notes are ready. Please review them before our team meeting on Thursday.",legitimate,16,0,0,0,0,0
+L01,1,"Hi Morgan, the project notes are ready. Please review them before our team meeting on Thursday. Please see the details below.",legitimate,21,0,0,0,0,0
+L01,2,"Hi Morgan, the project notes are ready. Please review them before our team meeting on Thursday. Thank you for taking a look.",legitimate,22,0,0,0,0,0
+L02,0,Your library book is due next week. Renew it through the library website if you need more time.,legitimate,18,0,0,0,0,0
+L02,1,Your library book is due next week. Renew it through the library website if you need more time. Please see the details below.,legitimate,23,0,0,0,0,0
+L02,2,Your library book is due next week. Renew it through the library website if you need more time. Thank you for taking a look.,legitimate,24,0,0,0,0,0
+L03,0,Thanks for applying. We would like to schedule an interview for the position. Please reply with a time that works for you.,legitimate,22,0,0,0,0,0
+L03,1,Thanks for applying. We would like to schedule an interview for the position. Please reply with a time that works for you. Please see the details below.,legitimate,27,0,0,0,0,0
+L03,2,Thanks for applying. We would like to schedule an interview for the position. Please reply with a time that works for you. Thank you for taking a look.,legitimate,28,0,0,0,0,0
+L04,0,The monthly utility statement is available in your account. The amount due is listed on the first page.,legitimate,18,0,0,0,0,0
+L04,1,The monthly utility statement is available in your account. The amount due is listed on the first page. Please see the details below.,legitimate,23,0,0,0,0,0
+L04,2,The monthly utility statement is available in your account. The amount due is listed on the first page. Thank you for taking a look.,legitimate,24,0,0,0,0,0
+L05,0,Lunch with the team is at noon today. Let me know if you would like me to save you a seat.,legitimate,21,0,0,0,0,1
+L05,1,Lunch with the team is at noon today. Let me know if you would like me to save you a seat. Please see the details below.,legitimate,26,0,0,0,0,1
+L05,2,Lunch with the team is at noon today. Let me know if you would like me to save you a seat. Thank you for taking a look.,legitimate,27,0,0,0,0,1
+L06,0,Your order has shipped. Track the delivery using the carrier link in your order history.,legitimate,15,0,0,0,0,0
+L06,1,Your order has shipped. Track the delivery using the carrier link in your order history. Please see the details below.,legitimate,20,0,0,0,0,0
+L06,2,Your order has shipped. Track the delivery using the carrier link in your order history. Thank you for taking a look.,legitimate,21,0,0,0,0,0
+L07,0,Could you send me the notes from class when you have a chance? I appreciate your help.,legitimate,17,0,0,0,0,0
+L07,1,Could you send me the notes from class when you have a chance? I appreciate your help. Please see the details below.,legitimate,22,0,0,0,0,0
+L07,2,Could you send me the notes from class when you have a chance? I appreciate your help. Thank you for taking a look.,legitimate,23,0,0,0,0,0
+L08,0,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time.,legitimate,19,0,0,1,0,0
+L08,1,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time. Please see the details below.,legitimate,24,0,0,1,0,0
+L08,2,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time. Thank you for taking a look.,legitimate,25,0,0,1,0,0
+L08,0,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time.,legitimate,19,0,0,1,0,0
+L08,1,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time. Please see the details below.,legitimate,24,0,0,1,0,0
+L08,2,The appointment is confirmed for Tuesday at 10 AM. Call the office if you need to change the time. Thank you for taking a look.,legitimate,25,0,0,1,0,0
